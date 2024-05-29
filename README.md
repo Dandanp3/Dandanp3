@@ -1,7 +1,7 @@
 ## Olá, eu sou o Daniel !👋
 ### Estudante de Desenvolvimento de Sistemas e apaixonado por tecnologia. Adoro explorar novas ideias e aprender continuamente. 
 
-![77c23886a156260c5d7b44b5d949ef79](https://github.com/Dandanp3/Dandanp3/assets/170982921/697f5a51-56fd-42c7-8181-8abba468ce3b)
+![8588aea076cd4e57989730d92b3cfb4c](https://github.com/Dandanp3/Dandanp3/assets/170982921/8fb08007-a6d1-4786-a925-7c1c7da8aeb6)
 ##
 ![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dandanp3&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dandanp3&size_weight=0.5&count_weight=0.5)
