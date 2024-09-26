@@ -15,5 +15,5 @@
     <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
 </div><br/>
 
-![snake gif](https://github.com/Dandanp3/Dandanp3/blob/output/github-contribution-grid-snake-dark.svg)
+
 
