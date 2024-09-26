@@ -8,7 +8,7 @@
 
 #
 
-<p align="center">Estudante de Análise e Desenvolvimento de Sistemas e apaixonado por tecnologia. Adoro explorar novas ideias e aprender continuamente.
+<p align="center">Sou Daniel Peixoto, estudante de Análise e Desenvolvimento de Sistemas em Pernambuco. Atualmente, foco em Python, frontend e frameworks, aprendendo a criar aplicações para web.
 
   
 #
@@ -41,8 +41,8 @@
   <br>
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Dandanp3&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly" alt="GitHub stats">
 
-  <a href="https://github.com/mari4souza/github-readme-stats">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dandanp3&layout=compact&bg_color=0c131c"/>
+  <a href="https://github.com/Dandanp3/github-readme-stats">
+    <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Dandanp3&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FF00F6&hide=html,css&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760&count_private=true" alt="Most Used Languages"/>
   </a>
 </div>
 
