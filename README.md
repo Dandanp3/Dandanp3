@@ -11,7 +11,7 @@
 
 #
 
-<p align="center">Sou Daniel Peixoto, estudante de Análise e Desenvolvimento de Sistemas em Pernambuco. Atualmente, foco em Python, frontend e frameworks, aprendendo a criar aplicações para web.
+<p align="center">Estudante de Análise e Desenvolvimento de Sistemas em Pernambuco, com sólida base em Python e experiência em frameworks como Django. Tenho também domínio de tecnologias de front-end (HTML, CSS, JavaScript e React), permitindo-me projetar e implementar aplicações web completas de alto desempenho.
 
   
 #
