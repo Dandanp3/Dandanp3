@@ -1,59 +1,46 @@
+<h1 align="center">Olá 👋Eu sou o Daniel</h1>
+
+###
+
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=ff0000&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Bem+vindo+ao+meu+perfil!+" alt="Typing SVG">
-  </a>
-</div>
-
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/ed104ccf-3d21-48bc-8a1d-a1aaeea7354b" alt="eyes" />
-</p>
-
-#
-
-<p align="center">Estudante de Análise e Desenvolvimento de Sistemas em Pernambuco, com sólida base em Python e experiência em frameworks como Django. Tenho também domínio de tecnologias de front-end (HTML, CSS, JavaScript e React), permitindo-me projetar e implementar aplicações web completas de alto desempenho.
-
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Django.svg" height="46" alt="Django logo"  />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Unity-Dark.svg" height="46" alt="Unity logo"  />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/React-Dark.svg" height="46" alt="React logo"  />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/HTML.svg" height="46" alt="React logo"  />
   
-#
-
-<img align="right" alt="" height="190px" src="./src/study.gif">
-
-<h3 align="left">Redes ~</h3>
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=ff0000&color:FFF)](https://www.linkedin.com/in/daniel-oliveira-953223310/)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=ff0000&color:FFF)](https://www.instagram.com/dandanp3/)
-
-
-<h3 align="left">Tecnologias ~</h3>
-
-<div align="left">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="25" alt="python logo"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo"  />
-    <img width="8" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="css3 logo"  />
-    <img width="8" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="25" alt="react logo"  />
-    <img width="8" />
-
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/CSS.svg" height="46" alt="CSS logo"  />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/JavaScript.svg" height="46" alt="Js logo"  />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/DiscordBots.svg" height="46" alt="Bots logo"  />
 </div>
 
-#
+###
 
-<div style="text-align: center;" align="center">
-  <h3>* GitHub Stats *</h3>
-  <br>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Dandanp3&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=ff0000&text_color=FFF&border_radius=3&border_color=ff0000&icon_color=ff0000&theme=jolly" alt="GitHub stats">
-
-  <a href="https://github.com/Dandanp3/github-readme-stats">
-    <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Dandanp3&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=ff0000&hide=html,css&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=ff0000&count_private=true" alt="Most Used Languages"/>
-  </a>
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
 </div>
 
+###
 
-#
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Dandanp3&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  
+</div>
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dandanp3/Dandanp3/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dandanp3/Dandanp3/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dandanp3/Dandanp3/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dandanp3/Dandanp3/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Dandanp3/Dandanp3/output/pacman-contribution-graph.svg">
 </picture>
+
+
