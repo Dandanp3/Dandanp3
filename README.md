@@ -25,8 +25,9 @@
 ###
 
 <div align="center">
- <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Dandanp3&show_icons=true&count_private=true&hide_border=true&title_color=3b82f6&icon_color=fde047&text_color=3b82f6&bg_color=0d1117" alt="Dandanp3 github stats" /> 
- <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dandanp3&layout=compact&hide_border=true&title_color=3b82f6&text_color=3b82f6&bg_color=0d1117" />
+ <img height="190em" src="https://github-readme-stats.vercel.app/api?username=Dandanp3&show_icons=true&theme=radical&title_color=0&icon_color=0&bg_color=0c131c"/>
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dandanp3&layout=compact&hide_border=true&title_color=3b82f6&text_color=3b82f6&bg_color=0d1117" />
+ 
 </div>
 
 
