@@ -2,11 +2,6 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=8b5cf6&center=true&vCenter=true&random=false&size=30&width=1000&lines=Olá!+Meu+nome+é+Daniel+%F0%9F%91%8B;Colecionando+bugs;Sinta-se+em+casa+%F0%9F%91%80)
 
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/89055e59-9ef4-438c-8040-a0a97a6e9c95" alt="Moon Gif">
-</div>
-
-
 ###
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
