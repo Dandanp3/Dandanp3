@@ -19,6 +19,12 @@
   <img width="12" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/JavaScript.svg" height="46" alt="Js logo"  />
   <img width="12" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/NodeJS-Dark.svg" height="46" alt="Node logo"  />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/ExpressJS-Dark.svg" height="46" alt="Express logo"  />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/MongoDB.svg" height="46" alt="MongoDB logo"  />
+  <img width="12" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/DiscordBots.svg" height="46" alt="Bots logo"  />
 </div>
 
