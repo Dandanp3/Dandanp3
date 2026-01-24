@@ -49,15 +49,15 @@
 ###
 
 <div align="center">
- <img height="190em" src="https://github-readme-stats.vercel.app/api?username=Dandanp3&show_icons=true&theme=radical&title_color=8b5cf6&text_color=a78bfa&icon_color=8b5cf6&bg_color=0c131c&border_color=8b5cf6"/>
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dandanp3&layout=compact&hide_border=false&title_color=8b5cf6&text_color=a78bfa&bg_color=0d1117&border_color=8b5cf6"/>
+ <img height="190em" src="https://github-readme-stats.vercel.app/api?username=Dandanp3&count_private=true&show_icons=true&theme=radical&title_color=8b5cf6&text_color=a78bfa&icon_color=8b5cf6&bg_color=0c131c&border_color=8b5cf6"/>
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dandanp3&count_private=true&layout=compact&hide_border=false&title_color=8b5cf6&text_color=a78bfa&bg_color=0d1117&border_color=8b5cf6"/>
 </div>
 
 <br>
 
 <!-- STREAK STATS -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dandanp3&&count_private=true$theme=radical&background=0d1117&border=8b5cf6&stroke=8b5cf6&ring=8b5cf6&fire=a78bfa&currStreakNum=a78bfa&sideNums=a78bfa&currStreakLabel=8b5cf6&sideLabels=8b5cf6&dates=a78bfa" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dandanp3&count_private=true&theme=radical&background=0d1117&border=8b5cf6&stroke=8b5cf6&ring=8b5cf6&fire=a78bfa&currStreakNum=a78bfa&sideNums=a78bfa&currStreakLabel=8b5cf6&sideLabels=8b5cf6&dates=a78bfa" alt="GitHub Streak"/>
 </div>
 
 <br>
