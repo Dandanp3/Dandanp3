@@ -41,12 +41,6 @@
 
 <br>
 
-<div align="center">
-  <sub>🔄 Este README é atualizado automaticamente via GitHub Actions • 🎮 Pacman devora contribuições diariamente!</sub>
-</div>
-
-<br>
-
 <!-- GITHUB STATS -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=40&section=header&text=📊%20GITHUB%20ANALYTICS%20📊&fontSize=18&fontColor=8b5cf6&fontAlign=50&stroke=8b5cf6&strokeWidth=1" alt="GitHub Analytics"/>
@@ -74,15 +68,10 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dandanp3&bg_color=0d1117&color=8b5cf6&line=a78bfa&point=8b5cf6&area=true&area_color=8b5cf6&hide_border=true" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dandanp3&bg_color=0d1117&color=a78bfa&line=8b5cf6&point=a78bfa&area=true&area_color=8b5cf6&hide_border=true&custom_title=Daniel's%20Contribution%20Graph" alt="Activity Graph"/>
 </div>
 
 <br>
-
-<!-- QUOTE -->
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
-</div>
 
 <br>
 
