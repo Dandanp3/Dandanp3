@@ -93,7 +93,7 @@
 </div>
 
 <div align="center">
-  <sub>"LET'S FUC^%$ GO!!." - Wade Wilson</sub>
+  <sub>"LET'S FUC^%$ GO!!" - Wade Wilson</sub>
   <br>
   <sub>GG WP!</sub>
 </div>
