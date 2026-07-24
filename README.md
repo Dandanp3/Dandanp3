@@ -96,7 +96,7 @@
 </div>
 
 <div align="center">
-  <sub>⚡ "Talk is cheap. Show me the code." - Linus Torvalds ⚡</sub>
+  <sub>"LET'S FUC^%$ GO!!." - Wade Wilson</sub>
   <br>
-  <sub>🎮 GG WP! Thanks for visiting! 🎮</sub>
+  <sub>GG WP!</sub>
 </div>
