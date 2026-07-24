@@ -2,7 +2,7 @@
 
 <div align="center">
   
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&pause=1000&color=ff0000&center=true&vCenter=true&random=false&size=30&width=1000&lines=BUFFED+AND+BEAUTIFUL,+BABY!;HEY+CHAT!+SOMEONE+CLIP+THIS!!;DON'T+BLOW+THIS+FOR+ME,+OKAY?...)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=50&pause=1000&color=ff0000&center=true&vCenter=true&random=false&size=30&width=1000&lines=BUFFED+AND+BEAUTIFUL,+BABY!;HEY+CHAT!+SOMEONE+CLIP+THIS!!;DON'T+BLOW+THIS+FOR+ME,+OKAY?...)
 
 <img src="https://github.com/user-attachments/assets/46a7c15a-1581-4691-bc47-0700b9bda0ee" width="700" />
 
